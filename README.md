@@ -18,11 +18,12 @@ This project aims on developing a better and a comfortable way for i
 
 ## TECHSTACK
 
-| Software    | Hardware          |
-|-------------|-------------------|
-| Raspbian OS | Ultrasonic Sensor |
-| Open CV     | Buttons gTTs      |
-| Python      | Microphone        |
+| Software    | Hardware                    |
+|-------------|-----------------------------|
+| GTTS        | Raspberry Pi 4.             |
+| Raspbian OS | Raspberry Pi camera         |
+| Open CV     | Ultrasonic Sensor, buttons  |
+| Python      | Microphone, Earphone        |
 
 ## WORKING
 
